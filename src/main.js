@@ -307,7 +307,7 @@ const ageModeData = {
       '<strong>Animal Sounds:</strong> Learn animals through interactive matching.',
       '<strong>Safe Environment:</strong> Built-in locks prevent settings changes.'
     ],
-    image: './assets/toddler-screenshot.jpeg'
+    image: '/Loci-Kids-Website/assets/toddler-screenshot.jpeg'
   },
   preschool: {
     title: '🎓 Focus: Early Academic Foundations',
@@ -318,7 +318,7 @@ const ageModeData = {
       '<strong>Memory Matching:</strong> Challenge concentration with card grids.',
       '<strong>Logical Deduction:</strong> Solve patterns and shape completion.'
     ],
-    image: './assets/preschool-screenshot.jpeg'
+    image: '/Loci-Kids-Website/assets/preschool-screenshot.jpeg'
   }
 };
 
