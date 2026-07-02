@@ -318,7 +318,7 @@ const ageModeData = {
       '<strong>Memory Matching:</strong> Challenge concentration with card grids.',
       '<strong>Logical Deduction:</strong> Solve patterns and shape completion.'
     ],
-    image: '/assets/feature_graphic_16_9.png'
+    image: '/assets/preschool-screenshot.jpeg'
   }
 };
 
