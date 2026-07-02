@@ -307,7 +307,7 @@ const ageModeData = {
       '<strong>Animal Sounds:</strong> Learn animals through interactive matching.',
       '<strong>Safe Environment:</strong> Built-in locks prevent settings changes.'
     ],
-    image: '/assets/feature_graphic.png'
+    image: '/assets/toddler-screenshot.jpeg'
   },
   preschool: {
     title: '🎓 Focus: Early Academic Foundations',
